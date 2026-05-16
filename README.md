@@ -77,8 +77,8 @@ Aplikasi manajemen inventaris berbasis web untuk pengelolaan peralatan, komponen
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<username>/mgnk.git
-cd mgnk
+git clone https://github.com/<username>/SAKTI-KP.git
+cd SAKTI-KP
 ```
 
 ### 2. Install Dependencies
